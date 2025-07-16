@@ -2,7 +2,7 @@
 
 ## 🛒 01_Walmart_Null_Values_Handling_Project_And_Overall
 
-## 📌 Project Objective
+### 📌 Project Objective
 This project focuses on identifying and handling missing values in a simulated real-world Walmart sales dataset. The goal was to apply thoughtful, column-specific strategies to clean the data and make it ready for further analysis.
 
 ### 📊 Project and Overall Links
@@ -14,7 +14,7 @@ This project focuses on identifying and handling missing values in a simulated r
 
 ## 🛒 02_Walmart_Sales_EDA_Project_And_Overall
 
-## 📌 Project Overview
+### 📌 Project Overview
 This project explores Walmart sales data to uncover insights, trends, and performance metrics using Python (Pandas, Matplotlib, Seaborn).
 
 ### 📊 Project and Overall Links
