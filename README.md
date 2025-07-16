@@ -24,4 +24,6 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
   - https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project
 - All Attached files in Image format is called Overall.
   - https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Overall
+- Files in GitHub_Pages Link.
+  - https://siddes-analyst.github.io/02_Walmart_Sales_EDA_Overall/
 ---
