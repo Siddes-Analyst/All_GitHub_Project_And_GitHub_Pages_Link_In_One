@@ -9,5 +9,5 @@ This project focuses on identifying and handling missing values in a simulated r
 - All Files are Attached in the Repository is called Project.
   - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project
 - All Attached files in Image format is called Overall.
-  - https://siddes-analyst.github.io/01_Walmart-Null-Values-Handling-Overall/
+  - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Overall
 ---
