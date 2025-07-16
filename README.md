@@ -8,7 +8,7 @@ This project focuses on identifying and handling missing values in a simulated r
 ### 📊 Project and Overall and GitHub_Pages Links
 - All Files are Attached in the Repository is called Project.
   - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project
-- All Attached files in Image format is called Overall.
+- All Attached files in README is called Overall.
   - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Overall
 - Files in GitHub_Pages Link.
   - https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/
@@ -22,7 +22,7 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 ### 📊 Project and Overall and GitHub_Pages Links
 - All Files are Attached in the Repository is called Project.
   - https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project
-- All Attached files in Image format is called Overall.
+- All Attached files in README is called Overall.
   - https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Overall
 - Files in GitHub_Pages Link.
   - https://siddes-analyst.github.io/02_Walmart_Sales_EDA_Overall/
