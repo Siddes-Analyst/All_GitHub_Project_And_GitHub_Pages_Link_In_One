@@ -75,6 +75,30 @@ Project Report Link:
 Repositories Link:
 - [https://github.com/Siddes-Analyst/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI]
 
+---
+
+## 🌐 2000-2024_Happiest_Minds_Technologys_Employee_Analysis_HR_Dashboard_Using_Power-BI
+
+### 📌 Project Objective
+
+To analyse the employee details and its salary details of Happiest Minds Technology’s across Locations.
+  - Chennai Analysis
+  - Bangalore Analysis
+  - Hyderabad Analysis
+
+### 📊 Project and Links
+
+Live Dashboard Link: 
+- [https://app.powerbi.com/view?r=eyJrIjoiYjZiYWVmZDctM2IyMi00NDhiLTgzZTktMTc4Yzg5MjdjZjJkIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
+
+Project Report Link: 
+- [https://siddes-analyst.github.io/2000-2024_Happiest_Minds_Technologys_Employee_Analysis_HR_Dashboard_Using_Power-BI/]
+
+Repositories Link:
+- [https://github.com/Siddes-Analyst/2000-2024_Happiest_Minds_Technologys_Employee_Analysis_HR_Dashboard_Using_Power-BI]
+
+---
+
 # 🐍 PYTHON PROJECTS
 
 ## 🛒 01_Walmart_Null_Values_Handling_Project_And_Overall
