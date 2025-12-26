@@ -124,19 +124,19 @@ Repositories Link:
 
 # 🐍 PYTHON PROJECTS
 
-## 🛒 01 Walmart Null Values Handling Project
+## 🛒 01 Handling Walmart Null Values Dataset Project
 
 ### 📌 Project Objective
 This project focuses on identifying and handling missing values in a simulated real-world Walmart sales dataset. The goal was to apply thoughtful, column-specific strategies to clean the data and make it ready for further analysis.
 
 ### 📊 Project and Links
 
-- All Files are Attached in the Repository is called Project.
-  - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project
-- All Attached files in README is called Overall.
-  - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Overall
-- Files in GitHub_Pages Link.
+- Codes & Output Link: 
   - https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/
+
+- Repositories Link:
+  - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project
+
 ---
 
 ## 🛒 02_Walmart_Sales_EDA_Project_And_Overall
