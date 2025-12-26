@@ -139,16 +139,17 @@ This project focuses on identifying and handling missing values in a simulated r
 
 ---
 
-## 🛒 02_Walmart_Sales_EDA_Project_And_Overall
+## 🛒 02_Walmart_Sales_EDA_Project
 
 ### 📌 Project Overview
 This project explores Walmart sales data to uncover insights, trends, and performance metrics using Python (Pandas, Matplotlib, Seaborn).
 
 ### 📊 Project and Overall and GitHub_Pages Links
-- All Files are Attached in the Repository is called Project.
-  - https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project
-- All Attached files in README is called Overall.
-  - https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Overall
-- Files in GitHub_Pages Link.
+
+- Codes & Output Link:
   - https://siddes-analyst.github.io/02_Walmart_Sales_EDA_Overall/
+
+- Repositories Link:
+  - https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project
+
 ---
