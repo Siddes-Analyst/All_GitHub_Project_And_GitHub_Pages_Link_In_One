@@ -23,7 +23,7 @@ Repositories Link:
 
 ---
 
-## ✈️ Chennai_To_Bangalore_And_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis_Using_Excel
+## ✈️ Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Analysis Using Excel
 
 ### 📌 Project Objective
 
@@ -77,7 +77,7 @@ Repositories Link:
 
 ---
 
-## 🌐 2000-2024_Happiest_Minds_Technologys_Employee_Analysis_HR_Dashboard_Using_Power-BI
+## 🌐 2000-2024 Happiest Minds Technologys Employee Analysis HR Dashboard Using Power-BI
 
 ### 📌 Project Objective
 
