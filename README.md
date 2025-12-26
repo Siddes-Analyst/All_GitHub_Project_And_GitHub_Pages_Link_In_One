@@ -48,6 +48,33 @@ Project Report Link:
 Repositories Link:
 - [https://github.com/Siddes-Analyst/Chennai_To_Bangalore_And_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis_Using_Excel]
 
+---
+
+# 🖥️ POWER-BI PROJECTS
+
+## 🛒 2020 – 2024 Sales Performance of Bangalore D - Mart Stores Rice Products Analysis
+
+### 📌 Project Objective
+
+To analyse the sales and profit performance of rice products across Bangalore D-Mart stores.
+  - By Years
+  - By Months
+  - By Stores
+  - By Rice Brands
+  - By Product Category
+  - By Product Quantity
+
+### 📊 Project and Links
+
+Live Dashboard Link: 
+- [https://app.powerbi.com/view?r=eyJrIjoiNTg3N2VhYjItOGMxMi00ODhjLWE5MDMtNmM1NDljYzc5YTgwIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
+
+Project Report Link: 
+- [https://siddes-analyst.github.io/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI/]
+
+Repositories Link:
+- [https://github.com/Siddes-Analyst/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI]
+
 # 🐍 PYTHON PROJECTS
 
 ## 🛒 01_Walmart_Null_Values_Handling_Project_And_Overall
