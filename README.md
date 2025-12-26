@@ -1,3 +1,21 @@
+# 🐍 EXCEL PROJECTS
+
+## 🛒 Sales and Marketing Performance Analysis of Vivo Smartphones Using Excel
+
+### 📌 Project Objective
+
+To analysis the Vivo mobile Sales Vs Profit Growth and Trends of
+- Daily Analysis
+- Weekly Analysis
+- Monthly Analysis
+- Yearly Analysis
+
+### 📊 Project and Links
+
+Click Here to View Live Dashboard: [https://1drv.ms/x/c/ce8ecb681701e875/IQC0UCfdTIZpQ4fI6CicbJVsAUnkOudPtMhzxpmiHCLmlfo?e=ebsCgc]
+
+
+
 # 🐍 PYTHON PROJECTS
 
 ## 🛒 01_Walmart_Null_Values_Handling_Project_And_Overall
