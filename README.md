@@ -131,11 +131,11 @@ This project focuses on identifying and handling missing values in a simulated r
 
 ### 📊 Project and Links
 
-- Codes & Output Link: 
-  - https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/
+Codes & Output Link: 
+- https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/
 
-- Repositories Link:
-  - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project
+Repositories Link:
+- https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project
 
 ---
 
@@ -146,10 +146,10 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 
 ### 📊 Project and Overall and GitHub_Pages Links
 
-- Codes & Output Link:
-  - https://siddes-analyst.github.io/02_Walmart_Sales_EDA_Overall/
+Codes & Output Link:
+- https://siddes-analyst.github.io/02_Walmart_Sales_EDA_Overall/
 
-- Repositories Link:
-  - https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project
+Repositories Link:
+- https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project
 
 ---
