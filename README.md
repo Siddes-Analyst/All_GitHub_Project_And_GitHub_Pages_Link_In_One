@@ -99,6 +99,29 @@ Repositories Link:
 
 ---
 
+# 🐬 My-SQL PROJECTS
+
+## 🛒 2020 – 2024 Sales Performance of Bangalore D - Mart Stores Rice Products Analysis Using MySQL
+
+### 📌 Project Objective
+
+This project analyzes D-Mart rice brand sales data using MySQL. 15 business-oriented SQL queries were solved to extract insights such as
+- Sales Performance
+- Revenue Contribution
+- Fake Discount Detection
+- Top-Performing Products
+- Location-Wise Trends
+
+### 📊 Project and Links
+
+Queries & Output Link: 
+- [https://siddes-analyst.github.io/Dmart-Rice-Sales-Analysis-MySQL/]
+
+Repositories Link:
+- [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
+
+---
+
 # 🐍 PYTHON PROJECTS
 
 ## 🛒 01_Walmart_Null_Values_Handling_Project_And_Overall
