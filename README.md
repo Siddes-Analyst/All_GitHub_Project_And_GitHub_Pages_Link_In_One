@@ -1,6 +1,6 @@
-# 🐍 EXCEL PROJECTS
+# 🧮 EXCEL PROJECTS
 
-## 🛒 Sales and Marketing Performance Analysis of Vivo Smartphones Using Excel
+## 📱 Sales and Marketing Performance Analysis of Vivo Smartphones Using Excel
 
 ### 📌 Project Objective
 
@@ -9,6 +9,31 @@ To analysis the Vivo mobile Sales Vs Profit Growth and Trends of
 - Weekly Analysis
 - Monthly Analysis
 - Yearly Analysis
+
+### 📊 Project and Links
+
+Live Dashboard Link: 
+- [https://1drv.ms/x/c/ce8ecb681701e875/IQC0UCfdTIZpQ4fI6CicbJVsAUnkOudPtMhzxpmiHCLmlfo?e=ebsCgc]
+
+Project Report Link: 
+- [https://siddes-analyst.github.io/Sales-and-Marketing-Performance-Analysis-of-Vivo-Smartphones-Using-Excel/]
+
+Repositories Link:
+- [https://github.com/Siddes-Analyst/Sales-and-Marketing-Performance-Analysis-of-Vivo-Smartphones-Using-Excel]
+
+---
+
+## ✈️ Chennai_To_Bangalore_And_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis_Using_Excel
+
+### 📌 Project Objective
+
+To analyse the flight trips between
+  - Bangalore (BLR) → Chennai (MSS)
+    - Day-wise Trip Analysis
+    - Flight-wise Trip Analysis
+  - Chennai (MSS) → Bangalore (BLR)
+    - Day-wise Trip Analysis
+    - Flight-wise Trip Analysis
 
 ### 📊 Project and Links
 
